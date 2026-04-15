@@ -80,7 +80,7 @@ This project identifies key drop-off points and provides actionable insights to 
 ## 📈 Dashboard
 
 **Live Dashboard (Looker Studio):**  
-👉 [Paste Your Looker Studio Link Here]
+👉 https://lookerstudio.google.com/reporting/ce46d376-68a5-42b7-a214-6c9a37322dde
 
 **Dashboard PDF:**  
 👉 [DA_Report.pdf](./DA_Report.pdf)
