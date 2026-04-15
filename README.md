@@ -139,9 +139,5 @@ mental_health_platform.ipynb
 - Looker Studio Dashboard  
 - Insights & Recommendations  
 
----
-
-## 🏁 Conclusion
-This project demonstrates strong analytical thinking, data cleaning, SQL skills, and the ability to generate actionable business insights through data.
 
 ---
